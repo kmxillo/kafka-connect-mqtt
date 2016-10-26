@@ -22,5 +22,7 @@
 
 * generate API documentation: `./gradlew javadoc` - output `./build/docs/javadoc`
 
+* generate .tar.gz distribution for installation in kafka: `./buildTar.sh`
+
 ## License
 See [LICENSE](LICENSE) file for License
